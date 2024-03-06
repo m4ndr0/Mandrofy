@@ -138,6 +138,7 @@ button:hover{
 
     .flex-container{
         height: 100vb;
+        min-height: 700px;
     }
     .inner-container{
         margin: auto;
